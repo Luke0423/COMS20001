@@ -21,6 +21,6 @@ More specifically,
   a 
   "[Blackboard](https://www.blackboard.com)-free"
   mirror of the unit web-page, served via
-  [`https://www.phoo.org/COMS20001`](https://www.phoo.org/COMS20001).
+  [`https://www.phoo.org/COMS20001`](https://www.phoo.org/COMS20001). 
 
 <!--- -------------------------------------------------------------------- --->
