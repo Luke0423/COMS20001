@@ -2,10 +2,9 @@
 
 <!--- -------------------------------------------------------------------- --->
 
-This repo. captures (selected) material related to the unit
-[COMS20001](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS20001):
-Concurrent Computing,
-operated by the
+This repo. captures (selected) material related to the
+[COMS20001](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS20001)
+unit, as operated by the
 [Department of Computer Science](https://www.cs.bris.ac.uk),
 [University of Bristol](https://www.bristol.ac.uk).
 More specifically, 
@@ -21,6 +20,6 @@ More specifically,
   a 
   "[Blackboard](https://www.blackboard.com)-free"
   mirror of the unit web-page, served via
-  [`https://www.phoo.org/COMS20001`](https://www.phoo.org/COMS20001). 
+  [`https://www.phoo.org/COMS20001`](https://www.phoo.org/COMS20001).
 
 <!--- -------------------------------------------------------------------- --->

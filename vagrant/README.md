@@ -1,4 +1,4 @@
-# [COMS20001](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS20001) VM configuration
+# [Vagrant](https://www.vagrantup.com)-based VM configuration
 
 <!--- -------------------------------------------------------------------- --->
 
@@ -27,7 +27,7 @@
      - execute
 
        ```sh
-       git clone https://www.github.com/danpage/COMS20001.git ./COMS20001
+       git clone --branch 2019 https://www.github.com/danpage/COMS20001.git ./COMS20001
        cd ./COMS20001/vagrant
        ```
 
