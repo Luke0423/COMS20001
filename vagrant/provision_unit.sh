@@ -16,7 +16,7 @@ sudo DEBIAN_FRONTEND="noninteractive" apt-get --quiet --assume-yes install wires
 
 # software install: Linaro GCC tool-chain
 wget --quiet http://releases.linaro.org/components/toolchain/binaries/5.1-2015.08/arm-eabi/gcc-linaro-5.1-2015.08-x86_64_arm-eabi.tar.xz
-sudo tar --extract --directory /usr/local --file gcc-linaro-5.1-2015.08-x86_64_arm-eabi.tar.xz
+sudo tar --extract --directory /opt/software --file gcc-linaro-5.1-2015.08-x86_64_arm-eabi.tar.xz
 rm --force gcc-linaro-5.1-2015.08-x86_64_arm-eabi.tar.xz
 
 # teaching material: download
